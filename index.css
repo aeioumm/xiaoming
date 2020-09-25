@@ -7,3 +7,9 @@ p{
     font-size: 40px;
     color: tomato;
 }
+span {
+    display: block;
+    width: 500px;
+    height: 100px;
+    background-color: violet;
+}
